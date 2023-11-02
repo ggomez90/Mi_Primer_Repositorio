@@ -51,7 +51,7 @@ public class Accesorios extends Productos{
 		String marca, detalle, categoriaUso;
 		double precio;
 		Scanner entrada = new Scanner(System.in);
-		codigo = Productos.ingresarNumeroEntero("INGRESE CODIGO.");
+		codigo = Productos.ingresarNumeroEntero("Ingrese codigo.");
 		System.out.println("Ingrese marca");
 		marca = entrada.nextLine();
 		System.out.println("Ingrese detalle");
