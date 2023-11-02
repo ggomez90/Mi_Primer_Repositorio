@@ -13,7 +13,7 @@ public class Menu {
 		System.out.println("BIENVENIDO: ");
 		while(true) {
 				do{
-					System.out.println("1-Consulta");			
+					System.out.println("1-CONSULTA");			
 					System.out.println("2-Alta");
 					System.out.println("3-Modificacion");
 					System.out.println("4-Venta");
