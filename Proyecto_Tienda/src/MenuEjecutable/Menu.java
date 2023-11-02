@@ -13,12 +13,12 @@ public class Menu {
 		System.out.println("BIENVENIDO: ");
 		while(true) {
 				do{
-					System.out.println("1-Consulta");			
-					System.out.println("2-Alta");
-					System.out.println("3-Modificacion");
-					System.out.println("4-Venta");
-					System.out.println("5-Recibo");
-					System.out.println("6-Listado");
+					System.out.println("1-CONSULTA");			
+					System.out.println("2-ALTA");
+					System.out.println("3-MODIFICACION");
+					System.out.println("4-VENTA");
+					System.out.println("5-RECIBO");
+					System.out.println("6-LISTADO");
 					System.out.println("0-SALIR");
 					opcion = entrada.nextInt();
 					entrada.nextLine();
